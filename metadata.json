@@ -1,0 +1,8 @@
+{
+  "name": "Meek Digital Marketing - Dubai Agency & GitHub Pages Builder",
+  "description": "Modern standalone digital agency web platform for Meek Digital Marketing LLC (meek.ae), inspired by Grupi WordPress theme, with real-time design customizer and turnkey GitHub Pages deployment pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
